@@ -2,7 +2,7 @@ pornhub
 =======
 
 Access [pornhub](http://www.pornhub.com/) (WARNING: NSFW) programmatically with
-Node.JS. Uses [hubtraffic.com](http://http://www.hubtraffic.com/) (go signup!)
+Node.JS. Uses [hubtraffic.com](http://www.hubtraffic.com/) (go signup!)
 
 Overview
 --------
